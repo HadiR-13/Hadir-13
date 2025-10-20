@@ -23,27 +23,65 @@
 <h3 align="center">My Focus Areas</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics-8B4513?style=for-the-badge&logo=robotframework&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep%20Learning-E53935?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Blockchain-FFD700?style=for-the-badge&logo=blockchaindotcom&logoColor=black">
-  <img src="https://img.shields.io/badge/Computer%20Vision-9C27B0?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-FFB300?style=for-the-badge&logo=google&logoColor=black">
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-1E88E5?style=for-the-badge&logo=python&logoColor=white">
+  <a href="https://www.robotics.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Robotics-8B4513?style=for-the-badge&logo=robotframework&logoColor=white">
+  </a>
+  <a href="https://www.tensorflow.org/learn" target="_blank">
+    <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white">
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Deep%20Learning-E53935?style=for-the-badge&logo=pytorch&logoColor=white">
+  </a>
+  <a href="https://www.blockchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blockchain-FFD700?style=for-the-badge&logo=blockchaindotcom&logoColor=black">
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Computer%20Vision-9C27B0?style=for-the-badge&logo=opencv&logoColor=white">
+  </a>
+  <a href="https://ai.google/" target="_blank">
+    <img src="https://img.shields.io/badge/Natural%20Language%20Processing-FFB300?style=for-the-badge&logo=google&logoColor=black">
+  </a>
+  <a href="https://spinningup.openai.com/en/latest/" target="_blank">
+    <img src="https://img.shields.io/badge/Reinforcement%20Learning-1E88E5?style=for-the-badge&logo=python&logoColor=white">
+  </a>
 </p>
+
 <hr>
+
 <h3 align="center">🛠️ Tools I Use</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
